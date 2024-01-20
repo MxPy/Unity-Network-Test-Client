@@ -2020,7 +2020,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 857c9614e1624ca4193147bdea27bdc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ip: 25.50.174.100
+  ip: 127.0.0.1
   port: 7777
   tickDivergenceTolerance: 1
 --- !u!4 &1937594375
